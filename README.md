@@ -6,7 +6,7 @@ HOW TO USE
 
 1) Optional: (To make this run faster) At the top left, click "Runtime"-> "Change runtime type", change hardware accelerator to "GPU" and change Runtime-shape to "High-RAM"
 
-2)Run the Imports cell block below (click the thing that looks like a play button of click shift+Enter
+2) Run the Imports cell block below (click the thing that looks like a play button of click shift+Enter
 
 3) Put your text in the input field of for the cell block with the task you want
 
